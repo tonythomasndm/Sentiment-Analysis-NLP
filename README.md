@@ -11,7 +11,7 @@ Here we have used the concept of Naive Bayes Probability theroem
 
 You can try out the "NaiveBayesSA" program file and check how this actually works using a sample file "movie_reviews"
 
-To use my twitter tweet classifier
+To use Twitter Sentiment Analyser
 
 1. Download the file "TwitterSA.py"
 2. Install the necessary libraries 
