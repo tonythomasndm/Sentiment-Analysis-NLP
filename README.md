@@ -12,11 +12,12 @@ Here we have used the concept of Naive Bayes Probability theroem
 You can try out the "NaiveBayesSA" program file and check how this actually works using a sample file "movie_reviews"
 
 To use my twitter tweet classifier
-1.Download the file "TwitterSA.py"
-2.Install the necessary libraries 
-3.Fill in the information in "XXX-XX..."
-4.Run the Program 
-5.It will successfully classify the tweets as positive,negative or neutral on the output screen
+
+1. Download the file "TwitterSA.py"
+2. Install the necessary libraries 
+3. Fill in the information in "XXX-XX..."
+4. Run the Program 
+5. It will successfully classify the tweets as positive,negative or neutral on the output screen
 
 Sample Output :
 Output : 
