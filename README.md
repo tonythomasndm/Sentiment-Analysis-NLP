@@ -255,3 +255,6 @@ RT @Urstruly AK45  AVENGERS PEAKED HERE   END OF AN ERA   https   t.co ccDbuxfB6
 1. Percentage of POSITIVE tweets -> 31.57894736842105%
 2. Percentage of NEGATIVE tweets -> 18.42105263157895%
 3. Percentage of NEUTRAL tweets -> 50.0%
+
+
+I have learnt this during my Research Methods in Social Science and Design course with our Guest Lecturer Shivani Kumar
