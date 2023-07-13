@@ -110,7 +110,7 @@ def main():
 if __name__ == "__main__": 
     main()
 
-# Output : 
+# Sample Output : 
 # RT @missingabhijeet  Get ready to witness World Class Action. Because the action director of Hollywood movies like Mission Impossible  Top  --------->> positive
 
 
